@@ -46,4 +46,4 @@ client.on('message', (receivedMessage) => {
     // receivedMessage.channel.send("Message received from " + receivedMessage.author.toString() + ": " + receivedMessage.content)
 })
 
-client.login("NzEyNjExMTkzOTAyMDcxODMw.XshI5w.pzSuo9QTz8GL42bHkARKLv9oWWw") // Replace XXXXX with your bot token
+client.login("") // Replace XXXXX with your bot token
